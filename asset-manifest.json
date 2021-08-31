@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/greathealth/static/css/main.19b6fe07.chunk.css",
+    "main.js": "/greathealth/static/js/main.1ad49995.chunk.js",
+    "main.js.map": "/greathealth/static/js/main.1ad49995.chunk.js.map",
+    "runtime-main.js": "/greathealth/static/js/runtime-main.985ec1e2.js",
+    "runtime-main.js.map": "/greathealth/static/js/runtime-main.985ec1e2.js.map",
+    "static/css/2.f31af01a.chunk.css": "/greathealth/static/css/2.f31af01a.chunk.css",
+    "static/js/2.76dcdd8c.chunk.js": "/greathealth/static/js/2.76dcdd8c.chunk.js",
+    "static/js/2.76dcdd8c.chunk.js.map": "/greathealth/static/js/2.76dcdd8c.chunk.js.map",
+    "static/js/3.53416a5d.chunk.js": "/greathealth/static/js/3.53416a5d.chunk.js",
+    "static/js/3.53416a5d.chunk.js.map": "/greathealth/static/js/3.53416a5d.chunk.js.map",
+    "index.html": "/greathealth/index.html",
+    "static/css/2.f31af01a.chunk.css.map": "/greathealth/static/css/2.f31af01a.chunk.css.map",
+    "static/css/main.19b6fe07.chunk.css.map": "/greathealth/static/css/main.19b6fe07.chunk.css.map",
+    "static/js/2.76dcdd8c.chunk.js.LICENSE.txt": "/greathealth/static/js/2.76dcdd8c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/greathealth/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.985ec1e2.js",
+    "static/css/2.f31af01a.chunk.css",
+    "static/js/2.76dcdd8c.chunk.js",
+    "static/css/main.19b6fe07.chunk.css",
+    "static/js/main.1ad49995.chunk.js"
+  ]
+}
